@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ISRPO
+namespace WpfApp1
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

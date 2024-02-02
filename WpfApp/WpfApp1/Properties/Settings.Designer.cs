@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ISRPO.Properties
+namespace WpfApp1.Properties
 {
 
 
